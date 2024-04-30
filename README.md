@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @adeblas12
-- 👀 I’m interested in learning and becoming better at problem solving, I enjoy coding and as a newbie I wish to develop my skills.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Helloooo
+- 👀 I’m interested in learning and becoming better at problem solving, I enjoy coding 
+- 🌱 I’m currently learning how to train nn and cnn
+- 💞️ I’m looking to collaborate on prmoving the speed on which my nn is able to learn through it epochs.
 - 📫 How to reach me ...
 
 <!---
